@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d281205c1dc5f4a268701edde385d06c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startRecordingButton: {instanceID: 0}
+  - resultText: {instanceID: 0}
+  - audioData1: {fileID: 2076660230604793320, guid: fefdaad0b4e879d46be894e4c85c0a6f,
+      type: 3}
+  - audioData2: {fileID: 7404628480156282094, guid: f34703df10b557144990b80c22a2c94e,
+      type: 3}
+  - audioDataX: {fileID: 6206145821995695028, guid: 2e232ed1656642d46afebc478d237f61,
+      type: 3}
+  - audioSource: {fileID: 864007184622748118, guid: cba2408bcea332a41b07d2b5e51d4979,
+      type: 3}
+  - audioX: {fileID: 8300000, guid: d79e87e07abcae54d8e329de164fa246, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
